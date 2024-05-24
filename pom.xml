@@ -16,7 +16,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/akunmkepl/continuous_inspection</url>
+      <url>https://maven.pkg.github.com/Bengley123/code_inspection_week12</url>
     </repository>
   </distributionManagement>
   
